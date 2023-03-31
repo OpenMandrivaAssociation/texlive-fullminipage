@@ -1,6 +1,6 @@
 Name:		texlive-fullminipage
 Version:	34545
-Release:	1
+Release:	2
 Summary:	Minipage spanning a complete page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fullminipage
